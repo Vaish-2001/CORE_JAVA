@@ -1,12 +1,12 @@
 # Methodss
-method is a block of code which is used to design a block of code
-method gets execute when it is called.  
-  advantage of method:
-  a. code reusability 
-  b. code modularity 
-  c. code redandancy 
-  d. encapsulation 
-  e. overriding, overloading 
+method is a block of code which is used to design a block of code    
+method gets execute when it is called.   
+  advantage of method:  
+  a. code reusability  
+  b. code modularity   
+  c. code redandancy  
+  d. encapsulation  
+  e. overriding, overloading   
   
 ## Object class 
 object class sits at the top of the classs herarchy.
