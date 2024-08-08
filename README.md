@@ -1,6 +1,7 @@
 # Methodss
 method is a block of code which is used to design a block of code    
 method gets execute when it is called.   
+                                        
   advantage of method:  
   a. code reusability  
   b. code modularity   
